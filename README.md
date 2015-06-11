@@ -2,7 +2,7 @@
 
 Get permutation by an array
 
-## Usege
+## Usage
 
 ```javascript
 
